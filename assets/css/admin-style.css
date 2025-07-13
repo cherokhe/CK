@@ -1,0 +1,25 @@
+.tw-admin-wrapper {
+    background: #fff;
+    padding: 24px 32px 32px 32px;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    max-width: 900px;
+    margin: 36px auto;
+    font-size: 16px;
+}
+.tw-admin-wrapper h1, .tw-admin-wrapper h2 { font-weight: 700; }
+.tw-admin-icon {
+    height: 28px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.tw-success { color: #43b143; font-weight: 600; margin-left: 10px; }
+.tw-loader { height: 24px; margin-left: 10px; }
+button.tw-map-cat-btn, button.tw-brand-save-btn, button.tw-save-btn, button.tw-sync-btn, button.tw-clear-log-btn {
+    cursor: pointer;
+}
+
+.select2-container { min-width:250px !important; }
+.tw-admin-wrapper { background: #fff; padding:24px; border-radius:8px; max-width:950px; margin:36px auto; }
+.tw-admin-wrapper h1 .dashicons { color:#f90; vertical-align:middle; margin-right:4px; }
+.tw-admin-wrapper table.widefat { margin-top:20px; }
